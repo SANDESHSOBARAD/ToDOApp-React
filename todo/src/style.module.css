@@ -25,6 +25,7 @@ body{
     height: 50px;
     font-size: 1.5em;
     text-align: center;
+    border-radius: 5px;
 }
 .formbuttonstyle{
     margin-top: 10px;
@@ -34,5 +35,26 @@ body{
     background-color: rgb(246, 88, 88);
     font-size: 1.3em;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    border-color: green;
+    border-radius: 10px;
+}
+.tododiv{
+    margin: auto;
+    margin-top: 20px;
+    width: 100%;
+    border: 2px solid whitesmoke;
+    padding: 30px;
+}
+.todoval{
+    font-size: 1.5em;
+    color: rgb(6, 176, 202);
+
+
+}
+.deletebutton{
+    height: 50px;
+    width: 20%;
+    background-color: rgb(246, 88, 88);
+    font-size: 1.3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
 }
