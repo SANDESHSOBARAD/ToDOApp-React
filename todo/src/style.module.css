@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+.header{
+    background-color: rgb(248, 83, 54);
+    font-size: 2em;
+    color: black;
+    height: 50px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 30;
+}
+.forminputstyle{
+    margin-left: 70px;
+    width: 90%;
+    margin-top: 10px;
+    height: 50px;
+    font-size: 1.5em;
+    text-align: center;
+}
+.formbuttonstyle{
+    margin-top: 10px;
+    margin-left: 570px;
+    height: 50px;
+    width: 20%;
+    background-color: rgb(246, 88, 88);
+    font-size: 1.3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
